@@ -1,3 +1,9 @@
 # advent-of-code
 
-My [Advent of Code](https://adventofcode.com/2023/) solutions
+My [Advent of Code](https://adventofcode.com/) solutions
+
+## Running
+
+```
+./run.sh
+```
